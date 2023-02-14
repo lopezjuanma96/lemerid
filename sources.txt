@@ -1,0 +1,5 @@
+https://commonvoice.mozilla.org/en/datasets
+https://paperswithcode.com/dataset/savee & https://www.tensorflow.org/datasets/catalog/savee 
+https://towardsdatascience.com/40-open-source-audio-datasets-for-ml-59dc39d48f06
+https://keithito.com/LJ-Speech-Dataset/
+https://drive.google.com/file/d/1Sm_zyBo67XHkiFhcRSQ4YaHPYM0slO_e/view

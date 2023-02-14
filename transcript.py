@@ -34,7 +34,7 @@ def process(text, language):
         if language == 'en':
             phonems = [ph[0] for ph in eti.ipa_list(word)] #ph[0] bc eti return a list with list of phonems in case some phonem has different forms of being presented.
         elif language == 'es':
-            phonems = sb.split(word)
+            phonems = sb(word)
         else:
             raise ValueError(f'Language provided on PARAMS, {language}, has no support.')
         

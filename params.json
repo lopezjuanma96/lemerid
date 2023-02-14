@@ -2,7 +2,7 @@
     "SAMPLE_RATE": 24000,
     "BAUDIO": 9600,
     "SECONDS": 15,
-    "AUDIO_DIR": "data/sample/audio",
-    "TRANS_DIR": "data/sample/transcript",
-    "LANGUAGE": "en"
+    "AUDIO_DIR": "data/commonvoice/audio",
+    "TRANS_DIR": "data/commonvoice/transcript",
+    "LANGUAGE": "es"
 }

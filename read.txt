@@ -1,0 +1,5 @@
+https://paperswithcode.com/task/text-to-speech-synthesis
+https://paperswithcode.com/paper/tacotron-towards-end-to-end-speech-synthesis
+https://paperswithcode.com/paper/fastspeech-2-fast-and-high-quality-end-to-end
+
+https://github.com/coqui-ai/TTS
